@@ -8,3 +8,5 @@ Games include:
 4. Craps
 
 As well as a sudoku solver (sudoku.py) and an analysis of the martingale betting system (martingale.py).
+
+These scripts can be run directly from the terminal. Have fun!
