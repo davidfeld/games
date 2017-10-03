@@ -1,3 +1,5 @@
-# games
-Some games you can play in the terminal.
-Testing
+# Games
+Some fun games you can play in the terminal!
+
+Games include:
+1. Blackjack
